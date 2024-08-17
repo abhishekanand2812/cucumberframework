@@ -11,7 +11,7 @@ public class Product {
 		this.productName = prodName;
 		this.price = price;
 	}
-
+//This is abhishek's code
 	public String getProdName() {
 		return productName;
 	}
